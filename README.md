@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋👍, I'm Atinga Francis</h1>
-<h3 align="center">A fullstack developer who is passionate in writing efficient and readable codes for production🚀🚀</h3>
+<h3 align="center">I am trying to become a Software Engineer😊💻🚀🚀</h3>
 
 - 👨‍💻 All of my projects are available at [francis-max.netlify.app](francis-max.netlify.app)
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **atingafrancis123@gmail.com**
 
-- ⚡ Fun fact **I code with CODE🔥👨‍💻🚀**
+- ⚡ Fun fact -- **I code with CODE🔥👨‍💻🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
