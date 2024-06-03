@@ -6,7 +6,7 @@
 - 💬 Ask me about **#JavaScript, #React, #TypeScript, #NextJs, #NodeJs, #MongoDb, #Python, #Blockchain**
 
 - 📫 How to reach me **atingafrancis123@gmail.com**
-- 📞 Call / WhatApp me on **0554092012**
+- 📞 Call / WhatsApp me on **0554092012**
 - ⚡ Fun fact -- **I code with CODE🔥👨‍💻🚀**
 
 <h3 align="left">Connect with me:</h3>
