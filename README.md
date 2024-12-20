@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [francis-max.netlify.app](francis-max.netlify.app)
 
-- 💬 Ask me about **#JavaScript, #React, #TypeScript, #NextJs, #NodeJs, #MongoDb, #Python, #Blockchain**
+- 💬 Ask me about **#JavaScript, #React, #TypeScript, #NextJs, #NodeJs, #MongoDb, #PostgreSQL, #Python, #Blockchain**
 
 - 📫 How to reach me **atingafrancis123@gmail.com**
 - 📞 Call / WhatsApp me on **0554092012**
